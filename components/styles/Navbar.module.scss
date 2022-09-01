@@ -1,0 +1,11 @@
+.nav-container{
+  a{
+    margin-right: 10px;
+  }
+  
+  &__is-active{
+    color: #0070f3;
+    text-decoration: underline;
+  }
+}
+
